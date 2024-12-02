@@ -1,0 +1,504 @@
+[{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4861"
+  },
+  "equipo1": "Los Guerreros",
+  "equipo2": "Las Estrellas",
+  "resultado": "3-2",
+  "fecha": "2024-12-01",
+  "goleadores": [
+    {
+      "nombre": "Juan Pérez",
+      "equipo": "Los Guerreros",
+      "minuto": 15
+    },
+    {
+      "nombre": "Luis Gómez",
+      "equipo": "Las Estrellas",
+      "minuto": 32
+    },
+    {
+      "nombre": "Juan Pérez",
+      "equipo": "Los Guerreros",
+      "minuto": 45
+    },
+    {
+      "nombre": "María López",
+      "equipo": "Las Estrellas",
+      "minuto": 58
+    },
+    {
+      "nombre": "Carlos Gómez",
+      "equipo": "Los Guerreros",
+      "minuto": 90
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4862"
+  },
+  "equipo1": "Los Halcones",
+  "equipo2": "Los Tigres",
+  "resultado": "1-1",
+  "fecha": "2024-12-01",
+  "goleadores": [
+    {
+      "nombre": "Ricardo Silva",
+      "equipo": "Los Halcones",
+      "minuto": 22
+    },
+    {
+      "nombre": "Fernando Ruiz",
+      "equipo": "Los Tigres",
+      "minuto": 54
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4863"
+  },
+  "equipo1": "Los Dragones",
+  "equipo2": "Los Lobos",
+  "resultado": "2-0",
+  "fecha": "2024-12-02",
+  "goleadores": [
+    {
+      "nombre": "Carlos Martínez",
+      "equipo": "Los Dragones",
+      "minuto": 19
+    },
+    {
+      "nombre": "David López",
+      "equipo": "Los Dragones",
+      "minuto": 75
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4864"
+  },
+  "equipo1": "Los Toros",
+  "equipo2": "Los Jaguares",
+  "resultado": "2-3",
+  "fecha": "2024-12-02",
+  "goleadores": [
+    {
+      "nombre": "Carlos López",
+      "equipo": "Los Toros",
+      "minuto": 10
+    },
+    {
+      "nombre": "Juan Hernández",
+      "equipo": "Los Jaguares",
+      "minuto": 25
+    },
+    {
+      "nombre": "Luis Rodríguez",
+      "equipo": "Los Toros",
+      "minuto": 40
+    },
+    {
+      "nombre": "Pedro Sánchez",
+      "equipo": "Los Jaguares",
+      "minuto": 53
+    },
+    {
+      "nombre": "José Martínez",
+      "equipo": "Los Jaguares",
+      "minuto": 77
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4865"
+  },
+  "equipo1": "Las Estrellas",
+  "equipo2": "Los Halcones",
+  "resultado": "1-0",
+  "fecha": "2024-12-03",
+  "goleadores": [
+    {
+      "nombre": "Laura Gómez",
+      "equipo": "Las Estrellas",
+      "minuto": 68
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4866"
+  },
+  "equipo1": "Los Guerreros",
+  "equipo2": "Los Dragones",
+  "resultado": "1-2",
+  "fecha": "2024-12-03",
+  "goleadores": [
+    {
+      "nombre": "Juan Pérez",
+      "equipo": "Los Guerreros",
+      "minuto": 28
+    },
+    {
+      "nombre": "Carlos Martínez",
+      "equipo": "Los Dragones",
+      "minuto": 42
+    },
+    {
+      "nombre": "David López",
+      "equipo": "Los Dragones",
+      "minuto": 70
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4867"
+  },
+  "equipo1": "Los Lobos",
+  "equipo2": "Los Halcones",
+  "resultado": "2-2",
+  "fecha": "2024-12-04",
+  "goleadores": [
+    {
+      "nombre": "Juan Gómez",
+      "equipo": "Los Lobos",
+      "minuto": 18
+    },
+    {
+      "nombre": "Ricardo Silva",
+      "equipo": "Los Halcones",
+      "minuto": 38
+    },
+    {
+      "nombre": "Carlos Pérez",
+      "equipo": "Los Lobos",
+      "minuto": 60
+    },
+    {
+      "nombre": "Javier Torres",
+      "equipo": "Los Halcones",
+      "minuto": 75
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4868"
+  },
+  "equipo1": "Los Jaguares",
+  "equipo2": "Los Tigres",
+  "resultado": "2-1",
+  "fecha": "2024-12-04",
+  "goleadores": [
+    {
+      "nombre": "Juan Hernández",
+      "equipo": "Los Jaguares",
+      "minuto": 20
+    },
+    {
+      "nombre": "Fernando Ruiz",
+      "equipo": "Los Tigres",
+      "minuto": 47
+    },
+    {
+      "nombre": "José Martínez",
+      "equipo": "Los Jaguares",
+      "minuto": 72
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4869"
+  },
+  "equipo1": "Los Guerreros",
+  "equipo2": "Los Tigres",
+  "resultado": "2-0",
+  "fecha": "2024-12-05",
+  "goleadores": [
+    {
+      "nombre": "Carlos Gómez",
+      "equipo": "Los Guerreros",
+      "minuto": 10
+    },
+    {
+      "nombre": "Juan Pérez",
+      "equipo": "Los Guerreros",
+      "minuto": 55
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba486a"
+  },
+  "equipo1": "Las Estrellas",
+  "equipo2": "Los Dragones",
+  "resultado": "1-1",
+  "fecha": "2024-12-05",
+  "goleadores": [
+    {
+      "nombre": "Luis Gómez",
+      "equipo": "Las Estrellas",
+      "minuto": 37
+    },
+    {
+      "nombre": "Carlos Martínez",
+      "equipo": "Los Dragones",
+      "minuto": 63
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba486b"
+  },
+  "equipo1": "Los Lobos",
+  "equipo2": "Los Tigres",
+  "resultado": "3-1",
+  "fecha": "2024-12-06",
+  "goleadores": [
+    {
+      "nombre": "Juan Gómez",
+      "equipo": "Los Lobos",
+      "minuto": 14
+    },
+    {
+      "nombre": "Carlos Pérez",
+      "equipo": "Los Lobos",
+      "minuto": 36
+    },
+    {
+      "nombre": "Fernando Ruiz",
+      "equipo": "Los Tigres",
+      "minuto": 58
+    },
+    {
+      "nombre": "Carlos Pérez",
+      "equipo": "Los Lobos",
+      "minuto": 75
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba486c"
+  },
+  "equipo1": "Los Toros",
+  "equipo2": "Las Estrellas",
+  "resultado": "2-2",
+  "fecha": "2024-12-06",
+  "goleadores": [
+    {
+      "nombre": "Carlos López",
+      "equipo": "Los Toros",
+      "minuto": 15
+    },
+    {
+      "nombre": "Laura Gómez",
+      "equipo": "Las Estrellas",
+      "minuto": 29
+    },
+    {
+      "nombre": "Luis Rodríguez",
+      "equipo": "Los Toros",
+      "minuto": 49
+    },
+    {
+      "nombre": "Luis Gómez",
+      "equipo": "Las Estrellas",
+      "minuto": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba486d"
+  },
+  "equipo1": "Los Guerreros",
+  "equipo2": "Los Lobos",
+  "resultado": "2-1",
+  "fecha": "2024-12-07",
+  "goleadores": [
+    {
+      "nombre": "Juan Pérez",
+      "equipo": "Los Guerreros",
+      "minuto": 20
+    },
+    {
+      "nombre": "Carlos Pérez",
+      "equipo": "Los Lobos",
+      "minuto": 47
+    },
+    {
+      "nombre": "Carlos Gómez",
+      "equipo": "Los Guerreros",
+      "minuto": 83
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba486e"
+  },
+  "equipo1": "Los Halcones",
+  "equipo2": "Los Jaguares",
+  "resultado": "1-1",
+  "fecha": "2024-12-07",
+  "goleadores": [
+    {
+      "nombre": "Ricardo Silva",
+      "equipo": "Los Halcones",
+      "minuto": 22
+    },
+    {
+      "nombre": "Pedro Sánchez",
+      "equipo": "Los Jaguares",
+      "minuto": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba486f"
+  },
+  "equipo1": "Las Estrellas",
+  "equipo2": "Los Halcones",
+  "resultado": "1-0",
+  "fecha": "2024-12-08",
+  "goleadores": [
+    {
+      "nombre": "Laura Gómez",
+      "equipo": "Las Estrellas",
+      "minuto": 42
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4870"
+  },
+  "equipo1": "Los Guerreros",
+  "equipo2": "Los Tigres",
+  "resultado": "3-1",
+  "fecha": "2024-12-08",
+  "goleadores": [
+    {
+      "nombre": "Carlos Gómez",
+      "equipo": "Los Guerreros",
+      "minuto": 18
+    },
+    {
+      "nombre": "Juan Pérez",
+      "equipo": "Los Guerreros",
+      "minuto": 60
+    },
+    {
+      "nombre": "Fernando Ruiz",
+      "equipo": "Los Tigres",
+      "minuto": 72
+    },
+    {
+      "nombre": "Carlos Gómez",
+      "equipo": "Los Guerreros",
+      "minuto": 88
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4871"
+  },
+  "equipo1": "Los Lobos",
+  "equipo2": "Los Jaguares",
+  "resultado": "2-2",
+  "fecha": "2024-12-09",
+  "goleadores": [
+    {
+      "nombre": "Carlos Pérez",
+      "equipo": "Los Lobos",
+      "minuto": 30
+    },
+    {
+      "nombre": "José Martínez",
+      "equipo": "Los Jaguares",
+      "minuto": 50
+    },
+    {
+      "nombre": "Juan Gómez",
+      "equipo": "Los Lobos",
+      "minuto": 58
+    },
+    {
+      "nombre": "Pedro Sánchez",
+      "equipo": "Los Jaguares",
+      "minuto": 77
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4872"
+  },
+  "equipo1": "Los Toros",
+  "equipo2": "Los Dragones",
+  "resultado": "2-3",
+  "fecha": "2024-12-09",
+  "goleadores": [
+    {
+      "nombre": "Carlos López",
+      "equipo": "Los Toros",
+      "minuto": 11
+    },
+    {
+      "nombre": "Carlos Martínez",
+      "equipo": "Los Dragones",
+      "minuto": 26
+    },
+    {
+      "nombre": "David López",
+      "equipo": "Los Dragones",
+      "minuto": 52
+    },
+    {
+      "nombre": "Luis Rodríguez",
+      "equipo": "Los Toros",
+      "minuto": 62
+    },
+    {
+      "nombre": "David López",
+      "equipo": "Los Dragones",
+      "minuto": 81
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d28bf73a8a6d328ba4873"
+  },
+  "equipo1": "Los Halcones",
+  "equipo2": "Las Estrellas",
+  "resultado": "1-2",
+  "fecha": "2024-12-10",
+  "goleadores": [
+    {
+      "nombre": "Ricardo Silva",
+      "equipo": "Los Halcones",
+      "minuto": 33
+    },
+    {
+      "nombre": "Luis Gómez",
+      "equipo": "Las Estrellas",
+      "minuto": 47
+    },
+    {
+      "nombre": "Laura Gómez",
+      "equipo": "Las Estrellas",
+      "minuto": 65
+    }
+  ]
+}]

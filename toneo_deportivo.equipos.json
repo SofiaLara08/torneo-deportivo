@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "674d1cc973a8a6d328ba4846"
+  },
+  "nombre": "Los Guerreros",
+  "fundado": "1998-05-20",
+  "ciudad": "Bogotá",
+  "entrenador": "José Martínez",
+  "colores": [
+    "rojo",
+    "negro"
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d1cc973a8a6d328ba4847"
+  },
+  "nombre": "Las Estrellas",
+  "fundado": "2000-07-15",
+  "ciudad": "Medellín",
+  "entrenador": "Carlos González",
+  "colores": [
+    "azul",
+    "blanco"
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d1cc973a8a6d328ba4848"
+  },
+  "nombre": "Los Halcones",
+  "fundado": "2003-11-10",
+  "ciudad": "Cali",
+  "entrenador": "Ricardo López",
+  "colores": [
+    "amarillo",
+    "negro"
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d1cc973a8a6d328ba4849"
+  },
+  "nombre": "Los Tigres",
+  "fundado": "1995-02-03",
+  "ciudad": "Barranquilla",
+  "entrenador": "Andrés Ríos",
+  "colores": [
+    "naranja",
+    "blanco"
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d1cc973a8a6d328ba484a"
+  },
+  "nombre": "Los Dragones",
+  "fundado": "2005-04-18",
+  "ciudad": "Cartagena",
+  "entrenador": "Fernando Pérez",
+  "colores": [
+    "verde",
+    "amarillo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d1cc973a8a6d328ba484b"
+  },
+  "nombre": "Los Lobos",
+  "fundado": "2010-06-22",
+  "ciudad": "Bucaramanga",
+  "entrenador": "Oscar Rodríguez",
+  "colores": [
+    "gris",
+    "rojo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d1cc973a8a6d328ba484c"
+  },
+  "nombre": "Los Toros",
+  "fundado": "1999-09-13",
+  "ciudad": "Medellín",
+  "entrenador": "Luis Torres",
+  "colores": [
+    "morado",
+    "blanco"
+  ]
+},
+{
+  "_id": {
+    "$oid": "674d1cc973a8a6d328ba484d"
+  },
+  "nombre": "Los Jaguares",
+  "fundado": "2007-12-01",
+  "ciudad": "Santa Marta",
+  "entrenador": "Juan Pérez",
+  "colores": [
+    "verde",
+    "blanco"
+  ]
+}]

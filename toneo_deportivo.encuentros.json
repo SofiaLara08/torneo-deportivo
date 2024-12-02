@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "674d1c1373a8a6d328ba4830"
+  },
+  "equipo1": "Los Guerreros",
+  "equipo2": "Las Estrellas",
+  "fecha": "2024-12-01",
+  "lugar": "Estadio Central",
+  "arbitro": "Carlos Sánchez",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c1373a8a6d328ba4831"
+  },
+  "equipo1": "Los Halcones",
+  "equipo2": "Los Tigres",
+  "fecha": "2024-12-01",
+  "lugar": "Estadio Olímpico",
+  "arbitro": "Luis Martínez",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c1373a8a6d328ba4832"
+  },
+  "equipo1": "Los Dragones",
+  "equipo2": "Los Lobos",
+  "fecha": "2024-12-02",
+  "lugar": "Estadio Internacional",
+  "arbitro": "Miguel Gómez",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c1373a8a6d328ba4833"
+  },
+  "equipo1": "Los Toros",
+  "equipo2": "Los Jaguares",
+  "fecha": "2024-12-02",
+  "lugar": "Estadio Norte",
+  "arbitro": "Javier Rodríguez",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c1373a8a6d328ba4834"
+  },
+  "equipo1": "Las Estrellas",
+  "equipo2": "Los Tigres",
+  "fecha": "2024-12-03",
+  "lugar": "Estadio Central",
+  "arbitro": "Juan Pérez",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c1373a8a6d328ba4835"
+  },
+  "equipo1": "Los Guerreros",
+  "equipo2": "Los Dragones",
+  "fecha": "2024-12-03",
+  "lugar": "Estadio Olímpico",
+  "arbitro": "Ricardo Díaz",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c1373a8a6d328ba4836"
+  },
+  "equipo1": "Los Lobos",
+  "equipo2": "Los Halcones",
+  "fecha": "2024-12-04",
+  "lugar": "Estadio Internacional",
+  "arbitro": "Francisco Herrera",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c1373a8a6d328ba4837"
+  },
+  "equipo1": "Los Jaguares",
+  "equipo2": "Los Toros",
+  "fecha": "2024-12-04",
+  "lugar": "Estadio Norte",
+  "arbitro": "Carlos Ramírez",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c1373a8a6d328ba4838"
+  },
+  "equipo1": "Los Guerreros",
+  "equipo2": "Los Tigres",
+  "fecha": "2024-12-05",
+  "lugar": "Estadio Central",
+  "arbitro": "Fernando Rodríguez",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c1373a8a6d328ba4839"
+  },
+  "equipo1": "Las Estrellas",
+  "equipo2": "Los Lobos",
+  "fecha": "2024-12-05",
+  "lugar": "Estadio Olímpico",
+  "arbitro": "Santiago Gómez",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c5f73a8a6d328ba483b"
+  },
+  "equipo1": "Los Halcones",
+  "equipo2": "Los Dragones",
+  "fecha": "2024-12-06",
+  "lugar": "Estadio Internacional",
+  "arbitro": "Héctor Álvarez",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c5f73a8a6d328ba483c"
+  },
+  "equipo1": "Los Toros",
+  "equipo2": "Las Estrellas",
+  "fecha": "2024-12-06",
+  "lugar": "Estadio Norte",
+  "arbitro": "Roberto Díaz",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c5f73a8a6d328ba483d"
+  },
+  "equipo1": "Los Tigres",
+  "equipo2": "Los Jaguares",
+  "fecha": "2024-12-07",
+  "lugar": "Estadio Central",
+  "arbitro": "Carlos Pérez",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c5f73a8a6d328ba483e"
+  },
+  "equipo1": "Los Guerreros",
+  "equipo2": "Los Lobos",
+  "fecha": "2024-12-07",
+  "lugar": "Estadio Olímpico",
+  "arbitro": "Antonio Torres",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c5f73a8a6d328ba483f"
+  },
+  "equipo1": "Las Estrellas",
+  "equipo2": "Los Jaguares",
+  "fecha": "2024-12-08",
+  "lugar": "Estadio Internacional",
+  "arbitro": "Rafael Sánchez",
+  "torneo": "Copa Nacional"
+},
+{
+  "_id": {
+    "$oid": "674d1c5f73a8a6d328ba4840"
+  },
+  "equipo1": "Los Halcones",
+  "equipo2": "Los Guerreros",
+  "fecha": "2024-12-08",
+  "lugar": "Estadio Norte",
+  "arbitro": "Luis Díaz",
+  "torneo": "Copa Nacional"
+}]

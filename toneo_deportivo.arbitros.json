@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4818"
+  },
+  "nombre": "Luis Martínez",
+  "edad": 38,
+  "nacionalidad": "Colombiana",
+  "experiencia": "12 años",
+  "partidos_juzgados": 180
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4819"
+  },
+  "nombre": "Miguel Gómez",
+  "edad": 42,
+  "nacionalidad": "Argentina",
+  "experiencia": "14 años",
+  "partidos_juzgados": 200
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba481a"
+  },
+  "nombre": "Javier Rodríguez",
+  "edad": 40,
+  "nacionalidad": "Uruguaya",
+  "experiencia": "13 años",
+  "partidos_juzgados": 175
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba481b"
+  },
+  "nombre": "Juan Pérez",
+  "edad": 37,
+  "nacionalidad": "Peruana",
+  "experiencia": "11 años",
+  "partidos_juzgados": 160
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba481c"
+  },
+  "nombre": "Ricardo Díaz",
+  "edad": 44,
+  "nacionalidad": "Ecuatoriana",
+  "experiencia": "15 años",
+  "partidos_juzgados": 210
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba481d"
+  },
+  "nombre": "Francisco Herrera",
+  "edad": 39,
+  "nacionalidad": "Boliviana",
+  "experiencia": "12 años",
+  "partidos_juzgados": 185
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba481e"
+  },
+  "nombre": "Carlos Ramírez",
+  "edad": 41,
+  "nacionalidad": "Chilena",
+  "experiencia": "13 años",
+  "partidos_juzgados": 170
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba481f"
+  },
+  "nombre": "Antonio Salazar",
+  "edad": 36,
+  "nacionalidad": "Paraguaya",
+  "experiencia": "9 años",
+  "partidos_juzgados": 150
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4820"
+  },
+  "nombre": "David Sánchez",
+  "edad": 43,
+  "nacionalidad": "Hondureña",
+  "experiencia": "14 años",
+  "partidos_juzgados": 190
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4821"
+  },
+  "nombre": "José Martínez",
+  "edad": 46,
+  "nacionalidad": "Costarricense",
+  "experiencia": "16 años",
+  "partidos_juzgados": 220
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4822"
+  },
+  "nombre": "Esteban López",
+  "edad": 35,
+  "nacionalidad": "Mexicana",
+  "experiencia": "10 años",
+  "partidos_juzgados": 140
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4823"
+  },
+  "nombre": "Fernando Rodríguez",
+  "edad": 48,
+  "nacionalidad": "Venezolana",
+  "experiencia": "18 años",
+  "partidos_juzgados": 250
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4824"
+  },
+  "nombre": "Santiago Gómez",
+  "edad": 41,
+  "nacionalidad": "Uruguaya",
+  "experiencia": "14 años",
+  "partidos_juzgados": 210
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4825"
+  },
+  "nombre": "Héctor Álvarez",
+  "edad": 33,
+  "nacionalidad": "Salvadoreña",
+  "experiencia": "8 años",
+  "partidos_juzgados": 130
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4826"
+  },
+  "nombre": "Roberto Díaz",
+  "edad": 39,
+  "nacionalidad": "Guatemalteca",
+  "experiencia": "12 años",
+  "partidos_juzgados": 180
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4827"
+  },
+  "nombre": "Carlos Pérez",
+  "edad": 50,
+  "nacionalidad": "Nicaragüense",
+  "experiencia": "20 años",
+  "partidos_juzgados": 300
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4828"
+  },
+  "nombre": "Antonio Torres",
+  "edad": 37,
+  "nacionalidad": "Panameña",
+  "experiencia": "11 años",
+  "partidos_juzgados": 160
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba4829"
+  },
+  "nombre": "Rafael Sánchez",
+  "edad": 45,
+  "nacionalidad": "Boliviana",
+  "experiencia": "16 años",
+  "partidos_juzgados": 240
+},
+{
+  "_id": {
+    "$oid": "674d1b2473a8a6d328ba482a"
+  },
+  "nombre": "Luis Díaz",
+  "edad": 38,
+  "nacionalidad": "Peruana",
+  "experiencia": "12 años",
+  "partidos_juzgados": 190
+},
+{
+  "_id": {
+    "$oid": "674d1b3273a8a6d328ba482c"
+  },
+  "nombre": "Carlos Sánchez",
+  "edad": 45,
+  "nacionalidad": "Mexicana",
+  "experiencia": "10 años",
+  "partidos_juzgados": 150
+}]
