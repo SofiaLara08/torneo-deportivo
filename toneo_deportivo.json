@@ -1,0 +1,968 @@
+[{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47b7"
+  },
+  "nombre": "Luis Gómez",
+  "edad": 28,
+  "deporte": "Fútbol",
+  "equipo": "Los Halcones",
+  "posicion": "Defensa",
+  "nacionalidad": "Mexicana"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47b8"
+  },
+  "nombre": "Carlos López",
+  "edad": 23,
+  "deporte": "Fútbol",
+  "equipo": "Los Dragones",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47b9"
+  },
+  "nombre": "Andrés Sánchez",
+  "edad": 30,
+  "deporte": "Fútbol",
+  "equipo": "Los Toros",
+  "posicion": "Portero",
+  "nacionalidad": "Chilena"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47ba"
+  },
+  "nombre": "Jorge Ramírez",
+  "edad": 21,
+  "deporte": "Fútbol",
+  "equipo": "Los Jaguares",
+  "posicion": "Delantero",
+  "nacionalidad": "Peruana"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47bb"
+  },
+  "nombre": "Diego Castro",
+  "edad": 26,
+  "deporte": "Fútbol",
+  "equipo": "Los Lobos",
+  "posicion": "Defensa",
+  "nacionalidad": "Venezolana"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47bc"
+  },
+  "nombre": "Fernando Ruiz",
+  "edad": 29,
+  "deporte": "Fútbol",
+  "equipo": "Los Cóndores",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Uruguaya"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47bd"
+  },
+  "nombre": "Ricardo Peña",
+  "edad": 22,
+  "deporte": "Fútbol",
+  "equipo": "Los Tigres",
+  "posicion": "Defensa",
+  "nacionalidad": "Ecuatoriana"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47be"
+  },
+  "nombre": "Miguel Herrera",
+  "edad": 27,
+  "deporte": "Fútbol",
+  "equipo": "Los Guerreros",
+  "posicion": "Delantero",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47bf"
+  },
+  "nombre": "Alejandro Vargas",
+  "edad": 32,
+  "deporte": "Fútbol",
+  "equipo": "Los Halcones",
+  "posicion": "Portero",
+  "nacionalidad": "Paraguaya"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47c0"
+  },
+  "nombre": "Oscar Medina",
+  "edad": 24,
+  "deporte": "Fútbol",
+  "equipo": "Los Dragones",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Boliviana"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47c1"
+  },
+  "nombre": "Francisco Martínez",
+  "edad": 35,
+  "deporte": "Fútbol",
+  "equipo": "Los Toros",
+  "posicion": "Defensa",
+  "nacionalidad": "Panameña"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47c2"
+  },
+  "nombre": "Héctor Torres",
+  "edad": 19,
+  "deporte": "Fútbol",
+  "equipo": "Los Jaguares",
+  "posicion": "Delantero",
+  "nacionalidad": "Hondureña"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47c3"
+  },
+  "nombre": "Adrián Ortega",
+  "edad": 33,
+  "deporte": "Fútbol",
+  "equipo": "Los Lobos",
+  "posicion": "Defensa",
+  "nacionalidad": "Salvadoreña"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47c4"
+  },
+  "nombre": "Eduardo Salazar",
+  "edad": 20,
+  "deporte": "Fútbol",
+  "equipo": "Los Cóndores",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Costarricense"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47c5"
+  },
+  "nombre": "Manuel Ríos",
+  "edad": 31,
+  "deporte": "Fútbol",
+  "equipo": "Los Tigres",
+  "posicion": "Portero",
+  "nacionalidad": "Guatemalteca"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47c6"
+  },
+  "nombre": "Sebastián García",
+  "edad": 18,
+  "deporte": "Fútbol",
+  "equipo": "Los Guerreros",
+  "posicion": "Delantero",
+  "nacionalidad": "Dominicana"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47c7"
+  },
+  "nombre": "Cristian Jiménez",
+  "edad": 34,
+  "deporte": "Fútbol",
+  "equipo": "Los Halcones",
+  "posicion": "Defensa",
+  "nacionalidad": "Cubana"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47c8"
+  },
+  "nombre": "Rodrigo Morales",
+  "edad": 28,
+  "deporte": "Fútbol",
+  "equipo": "Los Dragones",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Puerto Riqueña"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47c9"
+  },
+  "nombre": "David Navarro",
+  "edad": 27,
+  "deporte": "Fútbol",
+  "equipo": "Los Toros",
+  "posicion": "Portero",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674d169073a8a6d328ba47ca"
+  },
+  "nombre": "Ernesto Reyes",
+  "edad": 23,
+  "deporte": "Fútbol",
+  "equipo": "Los Jaguares",
+  "posicion": "Defensa",
+  "nacionalidad": "Mexicana"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47cc"
+  },
+  "nombre": "Iván Castillo",
+  "edad": 24,
+  "deporte": "Fútbol",
+  "equipo": "Los Lobos",
+  "posicion": "Delantero",
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47cd"
+  },
+  "nombre": "Raúl Delgado",
+  "edad": 29,
+  "deporte": "Fútbol",
+  "equipo": "Los Cóndores",
+  "posicion": "Defensa",
+  "nacionalidad": "Uruguaya"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47ce"
+  },
+  "nombre": "Javier Fuentes",
+  "edad": 20,
+  "deporte": "Fútbol",
+  "equipo": "Los Tigres",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Ecuatoriana"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47cf"
+  },
+  "nombre": "Mauricio Silva",
+  "edad": 22,
+  "deporte": "Fútbol",
+  "equipo": "Los Guerreros",
+  "posicion": "Defensa",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47d0"
+  },
+  "nombre": "Camilo Ortega",
+  "edad": 31,
+  "deporte": "Fútbol",
+  "equipo": "Los Halcones",
+  "posicion": "Portero",
+  "nacionalidad": "Paraguaya"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47d1"
+  },
+  "nombre": "Gustavo Mendoza",
+  "edad": 28,
+  "deporte": "Fútbol",
+  "equipo": "Los Dragones",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Venezolana"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47d2"
+  },
+  "nombre": "Pablo Romero",
+  "edad": 26,
+  "deporte": "Fútbol",
+  "equipo": "Los Toros",
+  "posicion": "Defensa",
+  "nacionalidad": "Chilena"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47d3"
+  },
+  "nombre": "Santiago Villalobos",
+  "edad": 19,
+  "deporte": "Fútbol",
+  "equipo": "Los Jaguares",
+  "posicion": "Delantero",
+  "nacionalidad": "Mexicana"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47d4"
+  },
+  "nombre": "Matías Guerrero",
+  "edad": 30,
+  "deporte": "Fútbol",
+  "equipo": "Los Lobos",
+  "posicion": "Portero",
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47d5"
+  },
+  "nombre": "Hugo Torres",
+  "edad": 25,
+  "deporte": "Fútbol",
+  "equipo": "Los Cóndores",
+  "posicion": "Defensa",
+  "nacionalidad": "Uruguaya"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47d6"
+  },
+  "nombre": "Diego Pérez",
+  "edad": 35,
+  "deporte": "Fútbol",
+  "equipo": "Los Tigres",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Peruana"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47d7"
+  },
+  "nombre": "Felipe Vega",
+  "edad": 21,
+  "deporte": "Fútbol",
+  "equipo": "Los Guerreros",
+  "posicion": "Delantero",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47d8"
+  },
+  "nombre": "José Núñez",
+  "edad": 32,
+  "deporte": "Fútbol",
+  "equipo": "Los Halcones",
+  "posicion": "Portero",
+  "nacionalidad": "Mexicana"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47d9"
+  },
+  "nombre": "Martín Álvarez",
+  "edad": 27,
+  "deporte": "Fútbol",
+  "equipo": "Los Dragones",
+  "posicion": "Defensa",
+  "nacionalidad": "Chilena"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47da"
+  },
+  "nombre": "Kevin Hernández",
+  "edad": 18,
+  "deporte": "Fútbol",
+  "equipo": "Los Toros",
+  "posicion": "Delantero",
+  "nacionalidad": "Venezolana"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47db"
+  },
+  "nombre": "Emanuel Reyes",
+  "edad": 28,
+  "deporte": "Fútbol",
+  "equipo": "Los Jaguares",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Ecuatoriana"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47dc"
+  },
+  "nombre": "Daniel Rodríguez",
+  "edad": 23,
+  "deporte": "Fútbol",
+  "equipo": "Los Lobos",
+  "posicion": "Defensa",
+  "nacionalidad": "Paraguaya"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47dd"
+  },
+  "nombre": "Lucas Salinas",
+  "edad": 20,
+  "deporte": "Fútbol",
+  "equipo": "Los Cóndores",
+  "posicion": "Portero",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47de"
+  },
+  "nombre": "Pedro Rivera",
+  "edad": 34,
+  "deporte": "Fútbol",
+  "equipo": "Los Tigres",
+  "posicion": "Defensa",
+  "nacionalidad": "Uruguaya"
+},
+{
+  "_id": {
+    "$oid": "674d16b673a8a6d328ba47df"
+  },
+  "nombre": "Tomás Benítez",
+  "edad": 22,
+  "deporte": "Fútbol",
+  "equipo": "Los Guerreros",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Venezolana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47e1"
+  },
+  "nombre": "Alberto Lara",
+  "edad": 24,
+  "deporte": "Fútbol",
+  "equipo": "Los Halcones",
+  "posicion": "Delantero",
+  "nacionalidad": "Panameña"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47e2"
+  },
+  "nombre": "Gerardo Paredes",
+  "edad": 30,
+  "deporte": "Fútbol",
+  "equipo": "Los Dragones",
+  "posicion": "Defensa",
+  "nacionalidad": "Hondureña"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47e3"
+  },
+  "nombre": "Ramiro González",
+  "edad": 25,
+  "deporte": "Fútbol",
+  "equipo": "Los Toros",
+  "posicion": "Portero",
+  "nacionalidad": "Costarricense"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47e4"
+  },
+  "nombre": "Víctor Moreno",
+  "edad": 28,
+  "deporte": "Fútbol",
+  "equipo": "Los Jaguares",
+  "posicion": "Defensa",
+  "nacionalidad": "Salvadoreña"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47e5"
+  },
+  "nombre": "Joaquín Serrano",
+  "edad": 19,
+  "deporte": "Fútbol",
+  "equipo": "Los Lobos",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Guatemalteca"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47e6"
+  },
+  "nombre": "Edgar Castro",
+  "edad": 22,
+  "deporte": "Fútbol",
+  "equipo": "Los Cóndores",
+  "posicion": "Delantero",
+  "nacionalidad": "Dominicana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47e7"
+  },
+  "nombre": "Cristóbal Vargas",
+  "edad": 27,
+  "deporte": "Fútbol",
+  "equipo": "Los Tigres",
+  "posicion": "Defensa",
+  "nacionalidad": "Cubana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47e8"
+  },
+  "nombre": "Rafael Campos",
+  "edad": 31,
+  "deporte": "Fútbol",
+  "equipo": "Los Guerreros",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Mexicana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47e9"
+  },
+  "nombre": "Damián Rivas",
+  "edad": 26,
+  "deporte": "Fútbol",
+  "equipo": "Los Halcones",
+  "posicion": "Portero",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47ea"
+  },
+  "nombre": "Nicolás Mejía",
+  "edad": 20,
+  "deporte": "Fútbol",
+  "equipo": "Los Dragones",
+  "posicion": "Defensa",
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47eb"
+  },
+  "nombre": "Sergio Salgado",
+  "edad": 29,
+  "deporte": "Fútbol",
+  "equipo": "Los Toros",
+  "posicion": "Delantero",
+  "nacionalidad": "Paraguaya"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47ec"
+  },
+  "nombre": "Elías Palacios",
+  "edad": 35,
+  "deporte": "Fútbol",
+  "equipo": "Los Jaguares",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Peruana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47ed"
+  },
+  "nombre": "Humberto Aguilar",
+  "edad": 33,
+  "deporte": "Fútbol",
+  "equipo": "Los Lobos",
+  "posicion": "Portero",
+  "nacionalidad": "Uruguaya"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47ee"
+  },
+  "nombre": "Alejandro Cabrera",
+  "edad": 23,
+  "deporte": "Fútbol",
+  "equipo": "Los Cóndores",
+  "posicion": "Defensa",
+  "nacionalidad": "Chilena"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47ef"
+  },
+  "nombre": "Rodrigo Peña",
+  "edad": 21,
+  "deporte": "Fútbol",
+  "equipo": "Los Tigres",
+  "posicion": "Delantero",
+  "nacionalidad": "Venezolana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47f0"
+  },
+  "nombre": "Juan Arce",
+  "edad": 24,
+  "deporte": "Fútbol",
+  "equipo": "Los Guerreros",
+  "posicion": "Defensa",
+  "nacionalidad": "Ecuatoriana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47f1"
+  },
+  "nombre": "Fabricio Valencia",
+  "edad": 28,
+  "deporte": "Fútbol",
+  "equipo": "Los Halcones",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Mexicana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47f2"
+  },
+  "nombre": "Sebastián Navarro",
+  "edad": 22,
+  "deporte": "Fútbol",
+  "equipo": "Los Dragones",
+  "posicion": "Portero",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47f3"
+  },
+  "nombre": "Ángel Flores",
+  "edad": 27,
+  "deporte": "Fútbol",
+  "equipo": "Los Toros",
+  "posicion": "Defensa",
+  "nacionalidad": "Uruguaya"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47f4"
+  },
+  "nombre": "Pablo Medina",
+  "edad": 25,
+  "deporte": "Fútbol",
+  "equipo": "Los Jaguares",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Paraguaya"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47f5"
+  },
+  "nombre": "César Luna",
+  "edad": 18,
+  "deporte": "Fútbol",
+  "equipo": "Los Lobos",
+  "posicion": "Delantero",
+  "nacionalidad": "Venezolana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47f6"
+  },
+  "nombre": "Esteban Maldonado",
+  "edad": 30,
+  "deporte": "Fútbol",
+  "equipo": "Los Cóndores",
+  "posicion": "Defensa",
+  "nacionalidad": "Peruana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47f7"
+  },
+  "nombre": "Diego Quintana",
+  "edad": 34,
+  "deporte": "Fútbol",
+  "equipo": "Los Tigres",
+  "posicion": "Portero",
+  "nacionalidad": "Chilena"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47f8"
+  },
+  "nombre": "Luis Figueroa",
+  "edad": 32,
+  "deporte": "Fútbol",
+  "equipo": "Los Guerreros",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47f9"
+  },
+  "nombre": "Tomás Ortiz",
+  "edad": 29,
+  "deporte": "Fútbol",
+  "equipo": "Los Halcones",
+  "posicion": "Delantero",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47fa"
+  },
+  "nombre": "Iván Duarte",
+  "edad": 20,
+  "deporte": "Fútbol",
+  "equipo": "Los Dragones",
+  "posicion": "Defensa",
+  "nacionalidad": "Mexicana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47fb"
+  },
+  "nombre": "Miguel Cárdenas",
+  "edad": 24,
+  "deporte": "Fútbol",
+  "equipo": "Los Toros",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Uruguaya"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47fc"
+  },
+  "nombre": "Enrique Salgado",
+  "edad": 28,
+  "deporte": "Fútbol",
+  "equipo": "Los Jaguares",
+  "posicion": "Portero",
+  "nacionalidad": "Paraguaya"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47fd"
+  },
+  "nombre": "Arturo Zambrano",
+  "edad": 33,
+  "deporte": "Fútbol",
+  "equipo": "Los Lobos",
+  "posicion": "Defensa",
+  "nacionalidad": "Chilena"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47fe"
+  },
+  "nombre": "Jonathan Escobar",
+  "edad": 19,
+  "deporte": "Fútbol",
+  "equipo": "Los Cóndores",
+  "posicion": "Delantero",
+  "nacionalidad": "Venezolana"
+},
+{
+  "_id": {
+    "$oid": "674d16fc73a8a6d328ba47ff"
+  },
+  "nombre": "Gabriel Montero",
+  "edad": 21,
+  "deporte": "Fútbol",
+  "equipo": "Los Tigres",
+  "posicion": "Defensa",
+  "nacionalidad": "Peruana"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba4801"
+  },
+  "nombre": "Oscar Cruz",
+  "edad": 24,
+  "deporte": "Fútbol",
+  "equipo": "Los Guerreros",
+  "posicion": "Portero",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba4802"
+  },
+  "nombre": "Marcos Herrera",
+  "edad": 25,
+  "deporte": "Fútbol",
+  "equipo": "Los Halcones",
+  "posicion": "Defensa",
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba4803"
+  },
+  "nombre": "Fernando Ríos",
+  "edad": 27,
+  "deporte": "Fútbol",
+  "equipo": "Los Dragones",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Uruguaya"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba4804"
+  },
+  "nombre": "Andrés Bautista",
+  "edad": 30,
+  "deporte": "Fútbol",
+  "equipo": "Los Toros",
+  "posicion": "Delantero",
+  "nacionalidad": "Chilena"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba4805"
+  },
+  "nombre": "Julio Vargas",
+  "edad": 28,
+  "deporte": "Fútbol",
+  "equipo": "Los Jaguares",
+  "posicion": "Defensa",
+  "nacionalidad": "Venezolana"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba4806"
+  },
+  "nombre": "Mauricio Ortega",
+  "edad": 22,
+  "deporte": "Fútbol",
+  "equipo": "Los Lobos",
+  "posicion": "Portero",
+  "nacionalidad": "Paraguaya"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba4807"
+  },
+  "nombre": "Carlos Navarro",
+  "edad": 19,
+  "deporte": "Fútbol",
+  "equipo": "Los Cóndores",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Ecuatoriana"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba4808"
+  },
+  "nombre": "Edwin Reyes",
+  "edad": 21,
+  "deporte": "Fútbol",
+  "equipo": "Los Tigres",
+  "posicion": "Delantero",
+  "nacionalidad": "Mexicana"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba4809"
+  },
+  "nombre": "Ricardo Jiménez",
+  "edad": 35,
+  "deporte": "Fútbol",
+  "equipo": "Los Guerreros",
+  "posicion": "Defensa",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba480a"
+  },
+  "nombre": "Gonzalo Pérez",
+  "edad": 23,
+  "deporte": "Fútbol",
+  "equipo": "Los Halcones",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba480b"
+  },
+  "nombre": "Santiago Medina",
+  "edad": 29,
+  "deporte": "Fútbol",
+  "equipo": "Los Dragones",
+  "posicion": "Portero",
+  "nacionalidad": "Uruguaya"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba480c"
+  },
+  "nombre": "Héctor Ramírez",
+  "edad": 34,
+  "deporte": "Fútbol",
+  "equipo": "Los Toros",
+  "posicion": "Defensa",
+  "nacionalidad": "Chilena"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba480d"
+  },
+  "nombre": "Matías Pacheco",
+  "edad": 24,
+  "deporte": "Fútbol",
+  "equipo": "Los Jaguares",
+  "posicion": "Delantero",
+  "nacionalidad": "Venezolana"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba480e"
+  },
+  "nombre": "Adrián Suárez",
+  "edad": 20,
+  "deporte": "Fútbol",
+  "equipo": "Los Lobos",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Ecuatoriana"
+},
+{
+  "_id": {
+    "$oid": "674d18ce73a8a6d328ba480f"
+  },
+  "nombre": "Ernesto Fajardo",
+  "edad": 26,
+  "deporte": "Fútbol",
+  "equipo": "Los Cóndores",
+  "posicion": "Defensa",
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674d18f373a8a6d328ba4811"
+  },
+  "nombre": "Felipe Martínez",
+  "edad": 21,
+  "deporte": "Fútbol",
+  "equipo": "Los Tigres",
+  "posicion": "Delantero",
+  "nacionalidad": "Paraguaya"
+},
+{
+  "_id": {
+    "$oid": "674d18f373a8a6d328ba4812"
+  },
+  "nombre": "Álvaro Torres",
+  "edad": 33,
+  "deporte": "Fútbol",
+  "equipo": "Los Guerreros",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Mexicana"
+}]
